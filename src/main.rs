@@ -1,8 +1,9 @@
 use bevy::prelude::Commands;
 use bevy::prelude::*;
-use player::player::PlayerPlugin;
+use plugins::player::player::PlayerPlugin;
 
-mod player;
+
+mod plugins;
 
 fn main() {
     App::new()

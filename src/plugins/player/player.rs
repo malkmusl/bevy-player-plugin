@@ -1,6 +1,6 @@
 use bevy::prelude::*;
 
-use crate::player::player_animation::{AnimationIndices, AnimationTimer};
+use crate::plugins::player::player_animation::{AnimationIndices, AnimationTimer};
 
 use super::player_controller::PlayerControllerPlugin;
 use super::player_animation::PlayerAnimationPlugin;
