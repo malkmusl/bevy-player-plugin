@@ -1,10 +1,11 @@
-# Project Name
+# Bevy Player Plugin
 
-[![Malkmusl's Open Source License Agreement v1.0](https://img.shields.io/badge/License-Malkmusl's%20Open%20Source%20License%20Agreement%20v1.0-brightgreen.svg?style=for-the-badge)](LICENSE.md)
+[![Malkmusl's Open Source License Agreement v1.3](https://img.shields.io/badge/License-Malkmusl's%20Open%20Source%20License%20Agreement%20v1.3-brightgreen.svg?style=for-the-badge)](LICENSE.md)
 
-![Languages Badge](https://img.shields.io/badge/Languages-818080?style=for-the-badge)  ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Languages Badge](https://img.shields.io/badge/Languages-818080?style=for-the-badge)  ![Markdown Badge](https://img.shields.io/badge/Markdown-1E395B?style=for-the-badge&logo=markdown&logoColor=white)   ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-[![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-%23FF5E5B.svg?style=for-the-badge)](https://ko-fi.com/your_username)  [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge)](https://www.patreon.com/your_username)
+
+[![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-%23FF5E5B.svg?style=for-the-badge)](https://ko-fi.com/malkmusl)  [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge)](https://www.patreon.com/malkmusl)
 
 
 
@@ -21,15 +22,15 @@
 
 ## Project Overview
 
-Provide a concise overview of your project, including its purpose and any important details. Explain what problem it solves or what it aims to achieve.
+This is the basic implementation of my Havard Exam Game feel free to copy and modify the code for your projects
 
 ## Features
 
-List the key features and functionalities of your project. You can use bullet points or create sub-sections for each feature.
+Implementation of a simple 2d Sprite character with directional based animations for walking 
 
 ## Installation
 
-Outline the steps required to install and set up your project. Include any dependencies or prerequisites that need to be installed. You can provide code snippets or commands to guide the users through the installation process.
+To use the plugin copy the world_generation folder in src/plugins to your project and make some small ajustments to fit the code in your project
 
 ## Usage
 
@@ -37,11 +38,11 @@ Provide instructions on how to use your project. Include code examples and expla
 
 ## Contributing
 
-Let others know how they can contribute to your project. Provide guidelines for code formatting, issue reporting, and pull requests. Mention any specific development setup or testing requirements.
+Because the project is under the Malkmusl's Open Source License you don´t have to sign a CLA with me but i recomend to read it carefully the best way to contribute to this project is to download and use the code and post the bugs in issus or to do a push reqest if you have major tweaks
 
 Contributions to this project are subject to review and approval by the Malkmusl team. By submitting a contribution, you agree to comply with the Malkmusl's Open Source License and grant Malkmusl the right to use and distribute your contributions under the terms of the license.
 
-Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to contribute.
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to contribute to my projects.
 
 ## License
 
